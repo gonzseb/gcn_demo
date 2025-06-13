@@ -33,7 +33,7 @@ El modelo se basa en una arquitectura de **GCN** (Graph Convolutional Network), 
 ## 📁 Estructura del Proyecto
 
 ```
-gcn_final/
+gcn_demo/
 ├── config.py              # Parámetros de entrenamiento y visualización
 ├── main.py                # Entrenamiento + evaluación automática
 ├── train.py               # Fase de entrenamiento del modelo GCN
@@ -43,14 +43,14 @@ gcn_final/
 │   └── gcn_model.py       # Implementación de la arquitectura GCN
 ├── utils/
 │   └── visualize.py       # Función para graficar el grafo
-└── model.pth              # (Opcional) Pesos entrenados del modelo
+└─
 ```
 
 ---
 
 ## 🧪 Requisitos
 
-Instalar dependencias:
+Instalar as dependencias:
 
 ```bash
 pip install -r requirements.txt
