@@ -17,11 +17,11 @@ Este proyecto es una demo correspondiente al curso **Estructuras Discretas para 
 
 ---
 
-## 🧑‍💻 Implementación
+## 🦾 Implementación
 
 El modelo se basa en una arquitectura de **GCN** (Graph Convolutional Network), que posee dos capas de convolución para redes neuronales sobre grafos (`GCNConv`) y una función de activación ReLU.
 
-### 📊 Funcionamiento
+### 📊 ¿Cómo funciona?
 
 1. **Dataset**: Se utiliza el **KarateClub**, que representa las relaciones sociales en un club de karate.
 2. **Preprocesamiento**: Las etiquetas se convierten a dos clases: LDA y CSH.
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ---
 
-## ⚙️ Cómo Ejecutarlo
+## ⚙️ ¿Cómo Ejecutarlo?
 
 ### Entrenamiento y evaluación conjunta:
 
