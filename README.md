@@ -1,9 +1,9 @@
 
 # 🧠 GCN sobre el KarateClub Dataset
 
-Este proyecto es una implementación de una **Red Neuronal Convolucional sobre Grafos (GCN)** utilizando el dataset clásico **KarateClub** de Wayne W. Zachary. El objetivo es clasificar los nodos (personas) de un grafo en dos comunidades principales, aplicando técnicas de machine learning sobre grafos mediante [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/).
+Este proyecto es una implementación de una **Red Neuronal Convolucional sobre Grafos (GCN)** utilizando el dataset clásico **KarateClub** de Wayne W. Zachary. El objetivo es clasificar los nodos (personas) de un grafo en dos comunidades principales, aplicando técnicas de machine learning sobre grafos mediante [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/). Cabe recalcar que, se necesitó asistencia de la inteligencia artificial (ChatGPT por OpenAI) para poder llevar a cabo parte del código, pero los conceptos fundamentales y la idea de qué se quería realizar fue estudiada y moldeada por los integrantes del grupo en conjunto.
 
-Este proyecto es una demo correspondiente al curso **Estructuras Discretas para Informática (EIF203)** impartido por **Dr. Carlos Loría-Sáenz**.
+Esta demo correspondiente al curso **Estructuras Discretas para Informática (EIF203)** impartido por **Dr. Carlos Loría-Sáenz**.
 
 ---
 
